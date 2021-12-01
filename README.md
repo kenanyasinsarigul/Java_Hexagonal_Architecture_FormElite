@@ -12,7 +12,7 @@
  (12.2021)</h2>
   <p align="center">
     DOMAIN : <a href="https://github.com/kenanyasinsarigul/Java_Hexagonal_Architecture_FormElite/tree/main/domain">DOMAIN</a>
-    INFRASTRUCTURE : <a href="https://github.com/kenanyasinsarigul/Java_Hexagonal_Architecture_FormElite/tree/main/infrastructure">INFRASTRUCTURE</a>
+    INFRASTRUCTURE : <a href="https://github.com/kenanyasinsarigul/Java_Hexagonal_Architecture_FormElite/tree/main/infra">INFRA</a>
     <br />
     <br />
     <a href="https://github.com/kenanyasinsarigul/Java_Hexagonal_Architecture_FormElite/issues">Report Bug</a>
